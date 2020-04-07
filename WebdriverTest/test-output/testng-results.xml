@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="129859" started-at="2020-04-01T11:37:17Z" finished-at="2020-04-01T11:39:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="129859" started-at="2020-04-01T11:37:17Z" finished-at="2020-04-01T11:39:27Z">
+      <class name="test.GooglesearchPageTest">
+        <test-method status="PASS" signature="googlesearchtest()[pri:0, instance:test.GooglesearchPageTest@1938003]" name="googlesearchtest" duration-ms="75080" started-at="2020-04-01T17:07:32Z" finished-at="2020-04-01T17:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlesearchtest -->
+      </class> <!-- test.GooglesearchPageTest -->
+      <class name="test.ExtentReportWithTestNG">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.ExtentReportWithTestNG@a7bc6e]" name="setup" is-config="true" duration-ms="789" started-at="2020-04-01T17:07:17Z" finished-at="2020-04-01T17:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:test.ExtentReportWithTestNG@a7bc6e]" name="setupTest" is-config="true" duration-ms="10831" started-at="2020-04-01T17:07:17Z" finished-at="2020-04-01T17:07:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:test.GooglesearchPageTest@1938003]" name="setupTest" is-config="true" duration-ms="3208" started-at="2020-04-01T17:07:28Z" finished-at="2020-04-01T17:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="googlesearchtest1()[pri:0, instance:test.ExtentReportWithTestNG@a7bc6e]" name="googlesearchtest1" duration-ms="91970" started-at="2020-04-01T17:07:32Z" finished-at="2020-04-01T17:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlesearchtest1 -->
+        <test-method status="PASS" signature="teardownTest()[pri:0, instance:test.ExtentReportWithTestNG@a7bc6e]" name="teardownTest" is-config="true" duration-ms="10281" started-at="2020-04-01T17:09:04Z" finished-at="2020-04-01T17:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method status="PASS" signature="teardownTest()[pri:0, instance:test.GooglesearchPageTest@1938003]" name="teardownTest" is-config="true" duration-ms="13288" started-at="2020-04-01T17:09:14Z" finished-at="2020-04-01T17:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.ExtentReportWithTestNG@a7bc6e]" name="teardown" is-config="true" duration-ms="6457" started-at="2020-04-01T17:09:29Z" finished-at="2020-04-01T17:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.ExtentReportWithTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
